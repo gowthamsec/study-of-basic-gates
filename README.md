@@ -1,3 +1,6 @@
+### NAME: GOWTHAM N
+###  REG NO: 212223100008
+
 ### study-of-basic-gates
 
 **AIM:** 
